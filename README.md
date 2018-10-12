@@ -5,7 +5,7 @@ This is a beginner-friendly project to help you get started with your
 know where to start, feel free to watch the videos linked below, and
 read the contribution rules. Happy hacking <3 !!
 
-P.S. Star and share this repository, if you had fun!
+P.S. Star and share this repository, if you had so much of  fun!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
